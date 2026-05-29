@@ -1,0 +1,71 @@
+{
+  "integracao": {
+    "tap": "o meu codigo baseado em jjk ja esta em sua maioria pronto, eu preciso apenas fazer umas limitações do tipo se voce roletar um tipo de energia voce não pode ter tecnica, eu quero adicionar um sistema que voce escolhe seu caminho e dependendo dele você enfrenta inimigos diferentes e fazer um trello explicando todo o codigo"
+  },
+  "escopo": {
+    "entregas": [],
+    "atividades": []
+  },
+  "tempo": {
+    "cronograma": [
+      {
+        "atividade": "fazer tello",
+        "responsavel": "Eu",
+        "validacao": "Eu",
+        "dataEntrega": "2025-06-06"
+      },
+      {
+        "atividade": "Mudanças no codigo",
+        "responsavel": "Eu",
+        "validacao": "Eu",
+        "dataEntrega": "2025-06-12"
+      }
+    ]
+  },
+  "partes": {
+    "stakeholders": []
+  },
+  "rh": {
+    "equipe": []
+  },
+  "comunicacao": {
+    "planoComunicacao": [
+      {
+        "canal": "Whatsapp",
+        "frequencia": "Diário",
+        "responsavel": "Eu"
+      }
+    ]
+  },
+  "custos": {
+    "orcamentos": [
+      {
+        "atividade": "Desenvolvimento",
+        "equipe": 0,
+        "materiais": 0,
+        "equipamentos": 0
+      }
+    ]
+  },
+  "aquisicoes": {
+    "contratos": [
+      {
+        "fornecedor": "",
+        "objeto": "codigo",
+        "status": ""
+      }
+    ]
+  },
+  "riscos": {
+    "riscosLista": [
+      {
+        "descricao": "eu esquecer de fazer ",
+        "impacto": "Negativo",
+        "planoResposta": ""
+      }
+    ]
+  },
+  "qualidade": {
+    "criterios": []
+  }
+}
