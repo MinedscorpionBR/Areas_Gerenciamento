@@ -1,1 +1,0 @@
-# Areas_Gerenciamento
