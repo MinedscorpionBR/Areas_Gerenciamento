@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1780084323593,
+    "name": "Falta de açúcar no escritório",
+    "prob": 5,
+    "impact": 1,
+    "response": "equipe compra açucar"
+  },
+  {
+    "id": 1780084369481,
+    "name": "Tempestade danifica roteador de internet",
+    "prob": 2,
+    "impact": 4,
+    "response": "equipe reza pra não acontecer, e se acontecer tirar da tomada pro aparelho não queimar e ligar pro provedor da internet. e empresa VAI FAZER UM BACKUP ANTES PRA ONTEM"
+  },
+  {
+    "id": 1780084411681,
+    "name": "Gerente de projetos sai da empresa",
+    "prob": 3,
+    "impact": 5,
+    "response": "empresa vai pedir pra gerente avisar com antecedencia pra ele avisar antes de fazer isso e quando ele fizer empresa vai procuar novo gerente o quanto antes"
+  },
+  {
+    "id": 1780084438129,
+    "name": "Cliente reduz orçamento em 30% no meio do projeto",
+    "prob": 4,
+    "impact": 5,
+    "response": "empresa vai pedir pra cliente reavaliar e falar que 30% é um tiro no pé do projeto"
+  },
+  {
+    "id": 1780084478272,
+    "name": "Bug crítico em produção no fim de semana",
+    "prob": 4,
+    "impact": 4,
+    "response": "empresa vai tentar corrigir o bug quanto antes"
+  },
+  {
+    "id": 1780084495688,
+    "name": "Fornecedor atrasa servidor em 2 semanas",
+    "prob": 4,
+    "impact": 3,
+    "response": "empresa vai cobrar fornecedor o quanto antes"
+  },
+  {
+    "id": 1780084549904,
+    "name": "Desenvolvedor júnior erra (retrabalho 3 dias)",
+    "prob": 5,
+    "impact": 5,
+    "response": "empresa não vai deixar Desenvolvedor júnior fazer trabalhos importante sem ao menos ter um backup salvo"
+  },
+  {
+    "id": 1780084588008,
+    "name": "Nova lei exige adaptações simples",
+    "prob": 5,
+    "impact": 1,
+    "response": "empresa vai adaptar o trabalho pra algo dentro da lei"
+  },
+  {
+    "id": 1780084633776,
+    "name": "Incêndio destrói data center principal",
+    "prob": 3,
+    "impact": 5,
+    "response": "empresa vai botar sprinkler no predio todo e fazer backups de segurança"
+  },
+  {
+    "id": 1780084666600,
+    "name": "Concorrente lança produto similar grátis",
+    "prob": 3,
+    "impact": 5,
+    "response": "empresa vai fazer um plano gratis pro produto limitando a experiencia do usuario para algo igual da concorrente porem limitando a experiencia para o usuario ter que assinar o plano pago se quiser algo melhor, algo no nivel spotify ou chatgpt"
+  }
+]
